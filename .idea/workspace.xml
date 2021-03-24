@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adfe790a-b480-4a75-a79c-a1ffdbd292a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TE1_Francisco Zamora Corrales/src/My_own_Java_exception/First_one/JustNaturalNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TE1_Francisco Zamora Corrales/src/My_own_Java_exception/Own_Exceptions_Use_Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TE1_Francisco Zamora Corrales/src/My_own_Java_exception/Second_one/OnlyMp3filesException.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qDKHSZEQST9I94uWTz2oM2Eis5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Own_Exceptions_Use_Example">
+    <configuration name="Main_ChEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Double_Handed_Example.Main_ChEx" />
+      <module name="TE1_Francisco Zamora Corrales" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Double_Handed_Example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Throw_Example.Main_Example" />
+      <module name="TE1_Francisco Zamora Corrales" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Throw_Example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_TryEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Try_Examples.Whit_Finally.Main_TryEx" />
+      <module name="TE1_Francisco Zamora Corrales" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Try_Examples.Whit_Finally.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Own_Exceptions_Use_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="My_own_Java_exception.Own_Exceptions_Use_Example" />
+      <module name="TE1_Francisco Zamora Corrales" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="My_own_Java_exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Simp_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Try_Examples.Simp_Example" />
+      <module name="TE1_Francisco Zamora Corrales" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Try_Examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Own_Exceptions_Use_Example" />
+        <item itemvalue="Application.Main_ChEx" />
+        <item itemvalue="Application.Simp_Example" />
+        <item itemvalue="Application.Main_TryEx" />
+        <item itemvalue="Application.Main_Example" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adfe790a-b480-4a75-a79c-a1ffdbd292a0" name="Default Changelist" comment="" />
+      <created>1616608635177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616608635177</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
