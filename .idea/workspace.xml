@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adfe790a-b480-4a75-a79c-a1ffdbd292a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TE1_Francisco Zamora Corrales/src/My_own_Java_exception/First_one/JustNaturalNumberException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TE1_Francisco Zamora Corrales/src/My_own_Java_exception/Own_Exceptions_Use_Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TE1_Francisco Zamora Corrales/src/My_own_Java_exception/Second_one/OnlyMp3filesException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TE1_Francisco Zamora Corrales/src/Double_Handed_Example/Main_ChEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/TE1_Francisco Zamora Corrales/src/Double_Handed_Example/Main_ChEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TE1_Francisco Zamora Corrales/src/My_own_Java_exception/First_one/JustNaturalNumberException.java" beforeDir="false" afterPath="$PROJECT_DIR$/TE1_Francisco Zamora Corrales/src/My_own_Java_exception/First_one/JustNaturalNumberException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TE1_Francisco Zamora Corrales/src/My_own_Java_exception/Own_Exceptions_Use_Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/TE1_Francisco Zamora Corrales/src/My_own_Java_exception/Own_Exceptions_Use_Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TE1_Francisco Zamora Corrales/src/My_own_Java_exception/Second_one/OnlyMp3filesException.java" beforeDir="false" afterPath="$PROJECT_DIR$/TE1_Francisco Zamora Corrales/src/My_own_Java_exception/Second_one/OnlyMp3filesException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TE1_Francisco Zamora Corrales/src/Throw_Example/Main_Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/TE1_Francisco Zamora Corrales/src/Throw_Example/Main_Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TE1_Francisco Zamora Corrales/src/Try_Examples/Simp_Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/TE1_Francisco Zamora Corrales/src/Try_Examples/Simp_Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TE1_Francisco Zamora Corrales/src/Try_Examples/Whit_Finally/Main_TryEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/TE1_Francisco Zamora Corrales/src/Try_Examples/Whit_Finally/Main_TryEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TE1_Francisco Zamora Corrales/Double_Handed_Example/Main_ChEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TE1_Francisco Zamora Corrales/Double_Handed_Example/Main_ChEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TE1_Francisco Zamora Corrales/My_own_Java_exception/Own_Exceptions_Use_Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TE1_Francisco Zamora Corrales/My_own_Java_exception/Own_Exceptions_Use_Example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TE1_Francisco Zamora Corrales/Throw_Example/Main_Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TE1_Francisco Zamora Corrales/Throw_Example/Main_Example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TE1_Francisco Zamora Corrales/Try_Examples/Simp_Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TE1_Francisco Zamora Corrales/Try_Examples/Simp_Example.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Own_Exceptions_Use_Example">
+  <component name="RunManager" selected="Application.Main_TryEx">
     <configuration name="Main_ChEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Double_Handed_Example.Main_ChEx" />
       <module name="TE1_Francisco Zamora Corrales" />
@@ -100,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main_TryEx" />
+        <item itemvalue="Application.Simp_Example" />
+        <item itemvalue="Application.Main_Example" />
         <item itemvalue="Application.Own_Exceptions_Use_Example" />
         <item itemvalue="Application.Main_ChEx" />
-        <item itemvalue="Application.Simp_Example" />
-        <item itemvalue="Application.Main_TryEx" />
-        <item itemvalue="Application.Main_Example" />
       </list>
     </recent_temporary>
   </component>

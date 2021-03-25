@@ -1,6 +1,8 @@
 package Try_Examples;
-//Program that try to divide a number by 0
-
+//Example of a program that try to divide a number by 0. The error is handled by try/catch exception.
+// Entry : nothing.
+// Exit : always an ArithmeticException.
+// Restrictions: there is not, the reason for existence of this program is to fail.
 public class Simp_Example {
     public static void main(String[] args){
         int num1, result;

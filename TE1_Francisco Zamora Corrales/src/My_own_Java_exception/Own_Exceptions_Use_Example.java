@@ -1,4 +1,14 @@
 package My_own_Java_exception;
+//Program that try to open a mp3 file (that does not exist) and play it,
+//works whit Exceptions class and has two made exceptions:JustNaturalNumberException and
+//OnlyMp3filesException (explained in their packages), and MalformedURLException, using try/catch  and throw
+//exceptions. The idea is to randomly choose a number associated with a file using a dictionary value,
+//so if the number is negative it would activate the JustNaturalNumberException, then the read file
+//(a non mp3 file) would activate the OnlyMp3filesException.
+// If this were a functional program it would use MalformedURLException for a wrong URL.
+// Entry : A number from 0 to 2 rooted in a dictionary whit files.
+// Exit : The sound given by the dictionary.
+// Restrictions: It only admits number from 0 to 2 and a mp3 file.
 
 
 import java.util.*;

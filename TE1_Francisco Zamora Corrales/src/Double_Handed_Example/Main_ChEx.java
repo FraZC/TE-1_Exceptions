@@ -1,5 +1,12 @@
 package Double_Handed_Example;
-//Example of trying to open a file (that does not exist)
+//Program that try to open a file (that does not exist).
+//works whit Cheked_Example class and has two exceptions:FileNotFoundException and
+//IllegalArgumentException, using try/catch  and throw exception. If the location of the file
+// isn't exact ("some place"), there would be a FileNotFoundException, but if the sent value is not
+// a location (2 or 3.45) there would be a IllegalArgumentException.
+// Entry : the location of a file.
+// Exit : The exception caught by the throw and the catch.
+// Restrictions: It would only admit a location of a file.
 import java.util.Random;
 
 public class Main_ChEx {
