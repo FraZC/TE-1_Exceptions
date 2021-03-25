@@ -1,5 +1,10 @@
 package Throw_Example;
-// Example of a program that try to add two numbers, but might fail
+// Example of a program that try to add two numbers, but might fail, woks with Example 1 class.
+// It use two random String values and turns those into a int numbers, but if it fails there would
+// activate the NumberFormatException by a throw exception.
+// Entry : two random Strings (numbers) from a list.
+// Exit : the add of those two numbers turned in a int.
+// Restrictions: If the Strings are not integer numerical symbols there would be an exception.
 public class Main_Example {
     static String num1;
     static String num2;
